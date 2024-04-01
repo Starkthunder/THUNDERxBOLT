@@ -2,7 +2,7 @@
 
 <h4 align="center"> 𝐀 𝐏𝐎𝐖𝐄𝐑𝐅𝐔𝐋 THUNDERx𝐒𝐏𝐀𝐌𝐁𝐎𝐓𝐒</h4>
 
-<p align="center"><a href="https://t.me/Stark_Network1"><img src="(158208828/b9546625-5cf3-424b-8674-1917a92b7fe0.jpg)" width="400"></a></p>
+<p align="center"><a href="https://t.me/Stark_Network1"><img src="https://telegra.ph/file/15e38816eee11c46fbee3.jpg" width="400"></a></p>
 
 
 > ⭐️ Thanks to everyone for using this op THUNDERxSPAM. That is the greatest pleasure we have !
