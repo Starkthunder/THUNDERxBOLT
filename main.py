@@ -16,16 +16,16 @@ urllib3.disable_warnings(urllib3.exceptions.InsecureRequestWarning)
 
 
 def load_plugins(plugin_name):
-    path = Path(f"Thunderix/modules{plugin_name}.py")
-    spec = importlib.util.spec_from_file_location(f"Thunderix.modules.{plugin_name}", path)
+    path = Path(f"ThunderBots/modules{plugin_name}.py")
+    spec = importlib.util.spec_from_file_location(f"ThunderBots.modules.{plugin_name}", path)
     load = importlib.util.module_from_spec(spec)
     load.logger = logging.getLogger(plugin_name)
     spec.loader.exec_module(load)
-    sys.modules["Thunderix.modules." + plugin_name] = load
-    print("Thunderix has Imported " + plugin_name)
+    sys.modules["ThunderBots.modules." + plugin_name] = load
+    print("ThunderBots has Imported " + plugin_name)
 
 
-files = glob.glob("Thunderix/modules/*.py")
+files = glob.glob("ThunderBots/modules/*.py")
 for name in files:
     with open(name) as a:
         patt = Path(a.name)
