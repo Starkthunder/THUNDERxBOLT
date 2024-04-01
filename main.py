@@ -32,7 +32,7 @@ for name in files:
         plugin_name = patt.stem
         load_plugins(plugin_name.replace(".py", ""))
 
-print("\n𝐗𝐁𝐨𝐭𝐬 𝐃𝐞𝐩𝐥𝐨𝐲𝐞𝐝 𝐒𝐮𝐜𝐜𝐞𝐬𝐬𝐟𝐮𝐥𝐥𝐲 ᴛʜᴜɴɴᴅᴇʀxꜱᴩᴀᴍ ʀᴇᴀᴅy ᴛᴏ ꜰᴜᴄᴋ  ⚡\nMy Master ---> @ST_2ST
+print("\n𝐗𝐁𝐨𝐭𝐬 𝐃𝐞𝐩𝐥𝐨𝐲𝐞𝐝 𝐗𝐁𝐨𝐭𝐬 𝐃𝐞𝐩𝐥𝐨𝐲𝐞𝐝 𝐒𝐮𝐜𝐜𝐞𝐬𝐬𝐟𝐮𝐥𝐥𝐲 ᴛʜᴜɴɴᴅᴇʀxꜱᴩᴀᴍ ʀᴇᴀᴅy ᴛᴏ ꜰᴜᴄᴋ  ⚡⚡\nMy Master ---> @ST_2ST
 
 async def main():
     await X1.run_until_disconnected()
